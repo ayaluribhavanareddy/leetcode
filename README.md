@@ -22,5 +22,10 @@ leetcode solutions
 ## Array
 |  |
 | ------- |
+| [1677-matrix-diagonal-sum](https://github.com/ayaluribhavanareddy/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ayaluribhavanareddy/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/ayaluribhavanareddy/leetcode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
