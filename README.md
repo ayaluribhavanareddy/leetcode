@@ -14,6 +14,7 @@ leetcode solutions
 ## String
 |  |
 | ------- |
+| [0520-detect-capital](https://github.com/ayaluribhavanareddy/leetcode/tree/master/0520-detect-capital) |
 | [2128-reverse-prefix-of-word](https://github.com/ayaluribhavanareddy/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
 |  |
