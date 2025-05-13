@@ -7,6 +7,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ayaluribhavanareddy/leetcode/tree/master/0009-palindrome-number) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ayaluribhavanareddy/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,6 +19,7 @@ leetcode solutions
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ayaluribhavanareddy/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2128-reverse-prefix-of-word](https://github.com/ayaluribhavanareddy/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/ayaluribhavanareddy/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ayaluribhavanareddy/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
 |  |
 | ------- |
@@ -36,4 +38,16 @@ leetcode solutions
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ayaluribhavanareddy/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/ayaluribhavanareddy/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ayaluribhavanareddy/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ayaluribhavanareddy/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Counting
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ayaluribhavanareddy/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 <!---LeetCode Topics End-->
